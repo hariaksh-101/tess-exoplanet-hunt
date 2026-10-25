@@ -45,3 +45,6 @@ Run each cell one at a time not all at once may cause error.
 
 ## Acknowledgements
 This project uses data from the NASA TESS mission, obtained through the Mikulski Archive for Space Telescopes (MAST), the Lightkurve Python package, and the NASA Exoplanet Archive.
+
+##  Connect
+[LinkedIn](https://www.linkedin.com/in/hariaksh-suman-rao-150969446)
