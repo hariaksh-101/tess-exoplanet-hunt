@@ -41,7 +41,7 @@ I downloaded NASA's list of TESS planet candidates and chose TOI-4597.01 (TIC 68
 
 ## How to run it
 Open `01_recovering_pi_mensae_c_with_TESS.ipynb` in Google Colab. Run the cells top to bottom (first run installs Lightkurve with `pip install lightkurve`).
-Run each cell one at a time not all at once may cause error.
+
 
 ## Acknowledgements
 This project uses data from the NASA TESS mission, obtained through the Mikulski Archive for Space Telescopes (MAST), the Lightkurve Python package, and the NASA Exoplanet Archive.
